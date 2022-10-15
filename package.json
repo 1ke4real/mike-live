@@ -1,0 +1,27 @@
+{
+  "dependencies": {
+    "boxen": "^7.0.0",
+    "chalk": "^5.0.1",
+    "clear": "^0.1.0",
+    "inquirer": "^8.0.0",
+    "open": "^8.4.0"
+  },
+  "name": "mike-live",
+  "version": "1.0.8",
+  "description": "this is my card in terminal",
+  "main": "app.js",
+  "bin": "app.js",
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/1ke4real/terminalCard.git"
+  },
+  "author": "Mike Leman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/1ke4real/terminalCard/issues"
+  },
+  "homepage": "https://github.com/1ke4real/terminalCard#readme"
+}
